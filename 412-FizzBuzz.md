@@ -29,7 +29,7 @@ n = 15,
     "FizzBuzz"
 ]  
 
-'''cpp
+```cpp
 class Solution {
 public:
     vector<string> fizzBuzz(int n) {
@@ -48,4 +48,4 @@ public:
         return res;
     }
 };
-'''
+```
